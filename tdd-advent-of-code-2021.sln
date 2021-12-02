@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day1", "day1\day1.csproj", "{814DA164-36D4-42B9-B62E-62F841BB0BD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileHandling", "FileHandling\FileHandling.csproj", "{75100F1E-27EC-4D6E-B6AB-4DEB1DBCE3E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileHandling", "FileHandling\FileHandling.csproj", "{75100F1E-27EC-4D6E-B6AB-4DEB1DBCE3E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day2", "day2\day2.csproj", "{DB174D93-04B1-4111-8998-44CA44B86FD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{75100F1E-27EC-4D6E-B6AB-4DEB1DBCE3E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75100F1E-27EC-4D6E-B6AB-4DEB1DBCE3E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75100F1E-27EC-4D6E-B6AB-4DEB1DBCE3E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB174D93-04B1-4111-8998-44CA44B86FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB174D93-04B1-4111-8998-44CA44B86FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB174D93-04B1-4111-8998-44CA44B86FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB174D93-04B1-4111-8998-44CA44B86FD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
